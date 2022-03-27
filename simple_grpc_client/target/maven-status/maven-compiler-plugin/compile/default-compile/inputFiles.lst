@@ -1,0 +1,8 @@
+/home/abraao/Documentos/testes/simple_grpc_client/target/generated-sources/protobuf/java/com/test/server/SimpleServer.java
+/home/abraao/Documentos/testes/simple_grpc_client/target/generated-sources/protobuf/java/com/test/server/HelloResponseOrBuilder.java
+/home/abraao/Documentos/testes/simple_grpc_client/target/generated-sources/protobuf/java/com/test/server/HelloResponse.java
+/home/abraao/Documentos/testes/simple_grpc_client/target/generated-sources/protobuf/java/com/test/server/Status.java
+/home/abraao/Documentos/testes/simple_grpc_client/target/generated-sources/protobuf/grpc-java/com/test/server/GreetingServiceGrpc.java
+/home/abraao/Documentos/testes/simple_grpc_client/src/main/java/com/test/GrpcClient.java
+/home/abraao/Documentos/testes/simple_grpc_client/target/generated-sources/protobuf/java/com/test/server/HelloRequest.java
+/home/abraao/Documentos/testes/simple_grpc_client/target/generated-sources/protobuf/java/com/test/server/HelloRequestOrBuilder.java
